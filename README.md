@@ -1,7 +1,7 @@
 # Geospatial-Data-Processing-System
 
 ## Introduction
-Massive multi-source heterogeneous geospatial data produced and collected by Geomatics Center Of Zhejiang, including Digital Orthophoto Map(DOM), Digital Elevation Model(DEM), Spatio-temporal Thematic Data(STD) and 3D Building Model Data(BMD), need a highly effective method to automate data quality inspection process. In this project, a data quality inspection system, consisting of 4 functional modules and 11 task units, was developed. Currently, the system has been put into use, significantly reducing the workload for the Geomatics Center.
+Massive multi-source heterogeneous geospatial data produced and collected, including Digital Orthophoto Map(DOM), Digital Elevation Model(DEM), Spatio-temporal Thematic Data(STD) and 3D Building Model Data(BMD), need a highly effective method to automate data quality inspection process. In this project, a data quality inspection system, consisting of 4 functional modules and 11 task units, was developed. Currently, the system has been put into use, significantly reducing the workload.
 
 ![](http://www.jinmengrao.com/gdp/img/GDP-2.jpg)
 
